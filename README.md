@@ -1,4 +1,4 @@
-branding
-========
+ROM Branding
+============
 
-Branding for Ruby Object Mapper project
+Branding for Ruby Object Mapper project; Photoshop, Illustrator files etc.
